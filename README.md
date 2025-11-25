@@ -1,4 +1,4 @@
-# Online Retail Shopping Application
+# BuyBuddy: Online Retail Shopping Application
 
 A web-based application that allows users to browse products, add them to the cart, place orders, and track deliveries. It includes user registration, product management, order processing, and payment integration.
 
